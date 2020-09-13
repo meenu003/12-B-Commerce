@@ -3,5 +3,9 @@ learn something new
 
 
 informatics practises
+
+
 python 
+
+
 msql
