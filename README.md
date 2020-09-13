@@ -1,2 +1,3 @@
 # 12-B-Commerce
-learning something new
+learn something new
+
